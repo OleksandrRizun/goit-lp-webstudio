@@ -2,4 +2,4 @@
 
 WebStudio
 
-https://oleksandrrizun.github.io/goil-lp-webstudio/
+https://oleksandrrizun.github.io/goit-lp-webstudio/
